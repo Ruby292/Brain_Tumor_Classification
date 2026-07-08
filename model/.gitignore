@@ -1,0 +1,5 @@
+# Bỏ qua (ignore) tất cả mọi file và thư mục nằm trong thư mục model này
+*
+
+# Ngoại trừ chính cái file .gitignore này (để giữ lại cấu trúc thư mục rỗng)
+!.gitignore
